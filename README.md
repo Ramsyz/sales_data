@@ -1,6 +1,6 @@
 # sales_data
 - How units solds per year.
-- Analysis on productcode and sales per year.
+- Analysis on productcode and sales each year.
 
 ![](/images/sales_data_by_sales.png)
 ![](/images/sales_data_productcode.png)
